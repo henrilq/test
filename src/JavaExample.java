@@ -6,5 +6,5 @@ public class JavaExample {
 
     }
 
-    public void hello(){}
+    public void hello2(){}
 }
