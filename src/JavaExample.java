@@ -5,4 +5,6 @@ public class JavaExample {
     public JavaExample(){
 
     }
+
+    public void hello(){}
 }
