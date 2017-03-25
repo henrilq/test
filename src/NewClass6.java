@@ -7,8 +7,12 @@ public class NewClass6 {
     public void test(){
 
     }
-    
+
     public void test2(){
+
+    }
+
+    public void test3(){
 
     }
 }
